@@ -2,5 +2,5 @@
 
 seolwu /seol-u/
 
-developer of **Orbitend**
-         and **Ko-op Workshop**
+developer of **Ko-op Workshop**
+         and **Orbitend**
