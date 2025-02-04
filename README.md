@@ -1,3 +1,4 @@
-### Hello.
+Hello.
 
-seolwu /seol-u/
+seolwu
+`pronounce it /seol-woo/`
